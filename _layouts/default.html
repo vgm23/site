@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="canvas-wrapper">
+
+    {% include header.html %}
+
+    <div class="canvas-content">
+
+        {% include offcanvas-menu.html %}
+
+        <div class="header-image"></div>
+
+        <div class="content">
+            {{ content }}
+        </div>
+
+        {% include footer.html %}
+
+    </div>
+
+</body>
+
+</html>

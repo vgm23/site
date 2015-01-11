@@ -1,0 +1,22 @@
+.content {
+  background-color: $content-background-color;
+  width: 100%;
+  padding: 20px;
+  
+  h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  @media (min-width: $screen-md-min) {
+    width: 992px;
+    margin: -100px auto 0 auto;
+    padding: 40px;
+  }
+}
+
+
+
+.block {
+  margin-top: 50px;
+}

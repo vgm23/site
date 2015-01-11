@@ -1,0 +1,51 @@
+.header {
+  @include clearfix();
+  background-color: $menu-background-color;
+  padding: 0 30px;
+  h1 {
+    font-weight: bolder;
+    font-size: 1.5em;
+    margin: 20px 0;
+    float: left;
+    @media (min-width: $screen-md-min) {
+      max-width: 25%;
+    }
+  }
+  .nav {
+    display: none;
+    ul {
+      margin: 0;
+    }
+    @media (min-width: $screen-md-min) {
+      display: block;
+      margin: 0;
+      font-size: 1em;
+      max-width: 75%;
+      float: right;
+      text-transform: uppercase;
+      li {
+        display: inline-block;
+        margin-left: 20px;
+      }
+      a {
+        display: inline-block;
+        padding: 40px 0;
+        text-decoration: none;
+        &:hover {
+          border-top: 5px solid $default-font-color;
+          padding-top: 35px;
+        }
+      }   
+    }
+   
+  }
+}
+
+.header-image {
+  background: url('../assets/images/pano_pomme.jpg') center;
+  width: 100%;
+  min-height: 250px;
+  @media (min-width: $screen-md-min) {
+    min-height: 400px;
+  }
+}
