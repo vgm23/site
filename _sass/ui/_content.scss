@@ -15,8 +15,17 @@
   }
 }
 
-
-
 .block {
   margin-top: 50px;
+}
+.image-container {
+  text-align: center;
+  img {
+    margin: 5px;
+    max-width: 100%;
+    @include media-query($screen-md-min) {
+      max-width: 49%;
+      margin: 10px 0;
+    }
+  }
 }
