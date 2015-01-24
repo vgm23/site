@@ -1,0 +1,12 @@
+---
+layout: default
+title: La ferme
+---
+
+{% for post in site.categories."la-ferme" reversed %}
+<article>
+    <h2>{{ post.title }}</h2>
+
+    {{ post.content }}
+</article>
+{% endfor %}
