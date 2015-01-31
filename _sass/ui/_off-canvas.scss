@@ -1,5 +1,7 @@
 .toggle-off-canvas {
   float: left;
+  font-size: 1.75em;
+  margin: 7px 20px 10px 10px;
   @media (min-width: $screen-md-min) {
     display: none;
   }
@@ -50,10 +52,34 @@
       left: 0;
       top: 0;
     }
+    &.sub-menu {
+      display: none;
+      background-color: $menu-hover-background-color;
+    }
+  }
+
+  .sub-menu-container {
+    &.active {
+      .sub-menu {
+        display: block;
+      }
+    }
+    .sub-menu {
+      @include translate3d(0, 0, 0);
+      @include transition-property(all);
+      @include transition-duration(.3s);
+      @include transition-timing-function(ease);
+      a {
+        padding-left: 30px;
+        &:hover {
+          border-left: 3px solid $default-font-color;
+          padding-left: 27px;
+        }
+      }
+    }
   }
   li {
     text-decoration: none;
-//    border-bottom: 1px solid #ddd;
   }
 }
 

@@ -1,12 +1,7 @@
 <header class="header">
-  <a href="#" class="toggle-off-canvas">Afficher la navigation</a>
-  <h1>Le verger du grand Murat</h1>
-  <nav class="nav">
-    <ul>
-      <li><a href="#">Nos produits</a></li>
-      <li><a href="{{ site.baseurl }}la-ferme">La ferme</a></li>
-      <li><a href="#">Recettes</a></li>
-      <li><a href="#">On en parle</a></li>
-    </ul>
-  </nav>
+    <a href="#" class="toggle-off-canvas"><i class="fa fa-bars"></i></a>
+    <h1>Le verger du grand Murat</h1>
+    <nav class="nav">
+        {% include menu.html %}
+    </nav>
 </header>

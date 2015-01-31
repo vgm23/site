@@ -1,41 +1,95 @@
 .header {
   @include clearfix();
   background-color: $menu-background-color;
-  padding: 0 30px;
+  position: relative;
   h1 {
     font-weight: bolder;
     font-size: 1.5em;
-    margin: 20px 0;
-    float: left;
+    margin: 10px 0 10px 20px;
     @media (min-width: $screen-md-min) {
-      max-width: 25%;
+      max-width: 20%;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    @media (min-width: $screen-lg-min) {
+      max-width: 30%;
+      margin-top: 15px
     }
   }
   .nav {
+    position: relative;
     display: none;
     ul {
       margin: 0;
     }
+
     @media (min-width: $screen-md-min) {
       display: block;
       margin: 0;
       font-size: 1em;
-      max-width: 75%;
+      width: 100%;
+      padding-left: 25%;
+      text-align: center;
       float: right;
       text-transform: uppercase;
       li {
         display: inline-block;
-        margin-left: 20px;
+
       }
       a {
         display: inline-block;
-        padding: 40px 0;
         text-decoration: none;
+        padding: 30px 10px 35px 10px;
         &:hover {
           border-top: 5px solid $default-font-color;
-          padding-top: 35px;
+          padding-top: 25px;
         }
-      }   
+      }
+
+
+      ul.sub-menu {
+        background-color: $menu-hover-background-color;
+        text-align: center;
+        width: 100%;
+        display: none;
+        position: absolute;
+        top: 85px;
+        z-index: 1;
+        left: 0;
+        font-size: 0.9em;
+        li {
+          margin-bottom: 0;
+        }
+        a {
+          padding: 20px;
+          &:hover {
+            border-top: 0;
+          }
+        }
+      }
+
+      li.active,
+      li:hover {
+        ul.sub-menu {
+          display: inline-block;
+        }
+      }
+
+    }
+
+    @media (min-width: $screen-lg-min) {
+      padding-left: 30%;
+      a {
+        padding: 20px 10px;
+        &.active,
+        &:hover {
+          padding-top: 15px;
+        }
+      }
+      ul.sub-menu {
+        top: 60px
+      }
     }
    
   }
