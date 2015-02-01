@@ -1,0 +1,12 @@
+---
+layout: default
+title: La lutte intégrée
+---
+
+{% for post in site.categories."visite" reversed %}
+<article>
+    <h2>{{ post.title }}</h2>
+
+    {{ post.content }}
+</article>
+{% endfor %}
