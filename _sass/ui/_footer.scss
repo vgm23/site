@@ -1,5 +1,23 @@
 .footer {
   color: #f1f1f1;;
   background-color: $default-font-color;
-  padding: 50px;
+  padding: 10px;
+
+  @media (min-width: $screen-md-min) {
+    padding: 50px;
+  }
+
+  .google-maps {
+    margin-top: 20px;
+    iframe {
+      width: 100%;
+    }
+    @media (min-width: $screen-md-min) {
+      margin-top: 0;
+      iframe {
+        width: 80%;
+        min-width: 350px;
+      }
+    }
+  }
 }
