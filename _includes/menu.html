@@ -1,21 +1,26 @@
 <ul>
-    <li><a href="#">Nos produits</a></li>
+    <li class="sub-menu-container">
+        <a href="#">Nos produits</a>
+        <ul class="sub-menu">
+            <li><a href="{{ site.baseurl }}/nos-produits/nos-pommes">Nos pommes</a></li>
+        </ul>
+    </li>
     <li class="sub-menu-container">
         <a href="#">Notre travail</a>
         <ul class="sub-menu">
-            <li><a href="{{ site.baseurl }}/notre-travail/la-ferme">La ferme</a></li>
+            <li><a href="{{ site.baseurl }}/notre-travail/le-verger">Le verger</a></li>
             <li><a href="{{ site.baseurl }}/notre-travail/la-lutte-integree">La lutte intégrée</a></li>
             <li><a href="{{ site.baseurl }}/notre-travail/visite">Visite du verger</a></li>
             <li><a href="{{ site.baseurl }}/notre-travail/bienvenue-a-la-ferme">Bienvenue à la ferme</a></li>
         </ul>
     </li>
-    <li><a href="#">Recettes</a></li>
+    <li><a href="{{ site.baseurl }}/recettes">Recettes</a></li>
     <li class="sub-menu-container">
         <a href="#">Nous trouver</a>
         <ul class="sub-menu">
-            <li><a href="#">La ferme</a></li>
-            <li><a href="#">Marchés</a></li>
-            <li><a href="#">Drive fermier</a></li>
+            <li><a href="{{ site.baseurl }}/nous-trouver/la-ferme">La ferme</a></li>
+            <li><a href="{{ site.baseurl }}/nous-trouver/marches">Marchés</a></li>
+            <li><a href="{{ site.baseurl }}/nous-trouver/drive-fermier">Drive fermier</a></li>
         </ul>
     </li>
     <li><a href="#">On en parle</a></li>
