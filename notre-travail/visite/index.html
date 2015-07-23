@@ -3,9 +3,11 @@ layout: default
 title: Visite du verger
 ---
 
+<h2>{{ page.title }}</h2>
+
 {% for post in site.categories."visite" reversed %}
 <article>
-    <h2>{{ post.title }}</h2>
+    <h3>{{ post.title }}</h3>
 
     {{ post.content }}
 </article>
