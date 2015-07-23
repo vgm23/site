@@ -3,7 +3,10 @@ title: Visite juillet-aout
 ---
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/visite/visite.jpg"><img src="{{ site.baseurl }}/assets/images/visite/visite-vignette.jpg" alt="Feuille tavelée" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/visite/visite.jpg">
+        <img src="{{ site.baseurl }}/assets/images/visite/visite-vignette.jpg" alt="Feuille tavelée" title="Feuille tavelée" />
+        <h4 class="thumbnail-title">Feuille tavelée</h4>
+    </a>
 </div>
 
 Tous les jeudi matin à partir de 10h en juillet et aout vous pouvez venir visiter notre verger.

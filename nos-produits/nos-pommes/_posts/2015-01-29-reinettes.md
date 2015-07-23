@@ -9,6 +9,9 @@ Elle est croquante, juteuse, sucrée, acidulée et parfumée.
 A consommer avant mi novembre, car elle a tendance à devenir farineuse.
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/nos-produits/reinettes.jpg"><img src="{{ site.baseurl }}/assets/images/nos-produits/reinettes-vignette.jpg" alt="Reine des reinettes" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/nos-produits/reinettes.jpg">
+        <img src="{{ site.baseurl }}/assets/images/nos-produits/reinettes-vignette.jpg" alt="Reine des reinettes" title="Reine des reinettes" />
+        <h4 class="thumbnail-title">Reine des reinettes</h4>
+    </a>
 </div>
 

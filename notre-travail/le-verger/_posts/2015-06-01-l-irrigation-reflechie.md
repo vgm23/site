@@ -13,7 +13,13 @@ Nous avons créé une réserve collinaire pour assurer l’irrigation.
 
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/irrigation-1.jpg"><img src="{{ site.baseurl }}/assets/images/le-verger/irrigation-1-vignette.jpg" alt="La réserve collinaire" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/irrigation-2.jpg"><img src="{{ site.baseurl }}/assets/images/le-verger/irrigation-2-vignette.jpg" alt="La réserve collinaire" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/irrigation-1.jpg">
+        <img src="{{ site.baseurl }}/assets/images/le-verger/irrigation-1-vignette.jpg" alt="La réserve collinaire" title="La réserve collinaire" />
+        <h4 class="thumbnail-title">La réserve collinaire</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/irrigation-2.jpg">
+        <img src="{{ site.baseurl }}/assets/images/le-verger/irrigation-2-vignette.jpg" alt="La réserve collinaire" title="La réserve collinaire" />
+        <h4 class="thumbnail-title">La réserve collinaire</h4>
+    </a>
 </div>
 

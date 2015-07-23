@@ -8,8 +8,14 @@ Le système à l’élastique est retenu. Le verger ainsi protégé, c’est pou
 
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/protection-1.jpg"><img src="{{ site.baseurl }}/assets/images/le-verger/protection-1-vignette.jpg" alt="Filet paragrêle" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/protection-2.jpg"><img src="{{ site.baseurl }}/assets/images/le-verger/protection-2-vignette.jpg" alt="Filet paragrêle" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/protection-1.jpg">
+        <img src="{{ site.baseurl }}/assets/images/le-verger/protection-1-vignette.jpg" alt="Filet paragrêle" title="Filet paragrêle" />
+        <h4 class="thumbnail-title">Filet paragrêle</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/le-verger/protection-2.jpg">
+        <img src="{{ site.baseurl }}/assets/images/le-verger/protection-2-vignette.jpg" alt="Filet paragrêle" title="Filet paragrêle" />
+        <h4 class="thumbnail-title">Filet paragrêle</h4>
+    </a>
 </div>
 
 

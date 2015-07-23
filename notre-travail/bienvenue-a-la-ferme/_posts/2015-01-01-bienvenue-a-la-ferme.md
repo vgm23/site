@@ -40,8 +40,20 @@ Chambre d’Agriculture-Bienvenue à la ferme au pays creusois tél: 05 55 61 50
 Site régional : [http://www.bienvenue-a-la-ferme.com/limousin](http://www.bienvenue-a-la-ferme.com/limousin) 
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-1.jpg"><img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-1-vignette.jpg" alt="Les exposants" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-2.jpg"><img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-2-vignette.jpg" alt="La visite du verger" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-3.jpg"><img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-3-vignette.jpg" alt="Animation montgolfière" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-4.jpg"><img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-4-vignette.jpg" alt="Les exposants" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-1.jpg">
+        <img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-1-vignette.jpg" alt="Les exposants" title="Les exposants" />
+        <h4 class="thumbnail-title">Les exposants</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-2.jpg">
+        <img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-2-vignette.jpg" alt="La visite du verger" title="La visite du verger" />
+        <h4 class="thumbnail-title">La visite du verger</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-3.jpg">
+        <img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-3-vignette.jpg" alt="Animation montgolfière" title="Animation montgolfière" />
+        <h4 class="thumbnail-title">Animation montgolfière</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-4.jpg">
+        <img src="{{ site.baseurl }}/assets/images/bienvenue-a-la-ferme/bienvenue_a_la_ferme-4-vignette.jpg" alt="Les exposants" title="Les exposants" />
+        <h4 class="thumbnail-title">Les exposants</h4>
+    </a>
 </div>

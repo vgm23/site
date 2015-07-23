@@ -1,0 +1,28 @@
+.image-container {
+  text-align: center;
+  img {
+    max-width: 100%;
+  }
+}
+
+.thumbnail {
+  @include media-query($screen-md-min) {
+    display: inline-block;
+    max-width: 48%;
+    margin: 10px 0;
+  }
+}
+
+.thumbnail-title {
+  font-size: 0.9em;
+  margin: 5px 0;
+}
+
+.content h4.thumbnail-title {
+  margin: 5px 0;
+}
+
+.thumbnail-licence {
+  font-size: 0.75em;
+  color: #666;
+}

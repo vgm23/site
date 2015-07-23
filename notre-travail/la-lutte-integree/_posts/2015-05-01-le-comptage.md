@@ -11,9 +11,18 @@ Nous gérons cette maladie grâce aux Avertissements Agricoles envoyés par Emai
 Grâce à ces deux moyens, nous n’avons pas eu à ce jour de tavelure.
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/feuille_tavelee.jpg"><img src="{{ site.baseurl }}/assets/images/la-lutte-integree/feuille_tavelee-vignette.jpg" alt="Feuille tavelée" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/fruit_tavele.jpg"><img src="{{ site.baseurl }}/assets/images/la-lutte-integree/fruit_tavele-vignette.jpg" alt="Fruit tavelé" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/station_meteo.jpg"><img src="{{ site.baseurl }}/assets/images/la-lutte-integree/station_meteo-vignette.jpg" alt="Station météo" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/feuille_tavelee.jpg">
+        <img src="{{ site.baseurl }}/assets/images/la-lutte-integree/feuille_tavelee-vignette.jpg" alt="Feuille tavelée" title="Feuille tavelée" />
+        <h4 class="thumbnail-title">Feuille tavelée</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/fruit_tavele.jpg">
+        <img src="{{ site.baseurl }}/assets/images/la-lutte-integree/fruit_tavele-vignette.jpg" alt="Fruit tavelé" title="Fruit tavelé" />
+        <h4 class="thumbnail-title">Fruit tavelé</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/station_meteo.jpg">
+        <img src="{{ site.baseurl }}/assets/images/la-lutte-integree/station_meteo-vignette.jpg" alt="Station météo" title="Station météo" />
+        <h4 class="thumbnail-title">Station météo</h4>
+    </a>
 </div>
 
 Un fruit tavelé est interdit à la vente.
@@ -25,7 +34,10 @@ Ennemi permanent du verger, il nécessite une protection des fruits chaque anné
 Pour évaluer ce risque, nous utilisons le piégeage sexuel. Cette méthode consiste à disposer le piège (une phéromone de synthèse attire le papillon mâle sur une plaquette engluée). Des relevés sont effectués tous les deux jours. Si le seuil est atteint, un traitement sera effectué.
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo.jpg"><img src="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo-vignette.jpg" alt="Feuille tavelée" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo.jpg">
+        <img src="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo-vignette.jpg" alt="Feuille tavelée" title="Feuille tavelée" />
+        <h4 class="thumbnail-title">Feuille tavelée</h4>
+    </a>
 </div>
 
 #### Les Acariens Rouges

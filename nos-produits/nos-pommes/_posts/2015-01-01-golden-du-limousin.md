@@ -11,7 +11,13 @@ Très résistante, il s’agit d’une des variétés se conservant le mieux.
 Elle a obtenu l’AOC (Appellation d’Origine Contrôlée) Golden du Limousin depuis le 26 Novembre 2004.
 
 <div class="image-container">
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-1.jpg"><img src="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-1-vignette.jpg" alt="Golden delicious" /></a>
-    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-2.jpg"><img src="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-2-vignette.jpg" alt="Golden delicious" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-1.jpg">
+        <img src="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-1-vignette.jpg" alt="Golden delicious" title="Golden delicious" />
+        <h4 class="thumbnail-title">Golden delicious</h4>
+    </a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-2.jpg">
+        <img src="{{ site.baseurl }}/assets/images/nos-produits/golden-du-limousin-2-vignette.jpg" alt="Golden delicious" title="Golden delicious" />
+        <h4 class="thumbnail-title">Golden delicious</h4>
+    </a>
 </div>
 
