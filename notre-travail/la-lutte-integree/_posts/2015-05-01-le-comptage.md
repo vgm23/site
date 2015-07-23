@@ -35,8 +35,8 @@ Pour évaluer ce risque, nous utilisons le piégeage sexuel. Cette méthode cons
 
 <div class="image-container">
     <a class="thumbnail" href="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo.jpg">
-        <img src="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo-vignette.jpg" alt="Feuille tavelée" title="Feuille tavelée" />
-        <h4 class="thumbnail-title">Feuille tavelée</h4>
+        <img src="{{ site.baseurl }}/assets/images/la-lutte-integree/piege_carpo-vignette.jpg" alt="Piège à carpocapses" title="Piège à carpocapses" />
+        <h4 class="thumbnail-title">Piège à carpocapses</h4>
     </a>
 </div>
 

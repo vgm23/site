@@ -4,8 +4,8 @@ title: Visite juillet-aout
 
 <div class="image-container">
     <a class="thumbnail" href="{{ site.baseurl }}/assets/images/visite/visite.jpg">
-        <img src="{{ site.baseurl }}/assets/images/visite/visite-vignette.jpg" alt="Feuille tavelée" title="Feuille tavelée" />
-        <h4 class="thumbnail-title">Feuille tavelée</h4>
+        <img src="{{ site.baseurl }}/assets/images/visite/visite-vignette.jpg" alt="Visite du verger" title="Visite du verger" />
+        <h4 class="thumbnail-title">Visite du verger</h4>
     </a>
 </div>
 
