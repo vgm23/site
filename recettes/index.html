@@ -1,0 +1,17 @@
+---
+layout: default
+title: Recettes
+---
+
+<article>
+    <h2>Recettes</h2>
+    Voici quelques recettes à base de pommes que vous pourrez préparer.
+</article>
+
+{% for post in site.categories."recettes" reversed %}
+<article>
+    <h3>{{ post.title }}</h3>
+
+    {{ post.content }}
+</article>
+{% endfor %}
