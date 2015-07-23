@@ -7,16 +7,16 @@ main_css_classname: homepage
 # Bienvenue au Verger du Grand Murat
 
 
-<p class="image-container">
+<div class="image-container">
     <img src="{{ site.baseurl }}/assets/images/home/accueil.jpg" alt="Nos produits" />
-</p>
+</div>
 
 Vous êtes les bienvenus sur notre site Internet. Ce site n’est pas consacré à la vente en ligne, mais nous avons le plaisir de vous présenter tout notre savoir-faire et les secrets de notre exploitation.
 
 Nous remercions notre pilote d’ULM (M. Charles) pour ses prises de vue, depuis son appareil, de notre beau village et de notre exploitation.
 
-<p class="image-container">
-    <a href="{{ site.baseurl }}/assets/images/home/ulm_1.jpg"><img src="{{ site.baseurl }}assets/images/home/ulm_1-vignette.jpg" alt="Vue du ciel" /></a>
-    <a href="{{ site.baseurl }}/assets/images/home/ulm_2.jpg"><img src="{{ site.baseurl }}assets/images/home/ulm_2-vignette.jpg" alt="Vue du ciel" /></a>
-</p>
+<div class="image-container">
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/home/ulm_1.jpg"><img src="{{ site.baseurl }}/assets/images/home/ulm_1-vignette.jpg" alt="Vue du ciel" /></a>
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/home/ulm_2.jpg"><img src="{{ site.baseurl }}/assets/images/home/ulm_2-vignette.jpg" alt="Vue du ciel" /></a>
+</div>
 

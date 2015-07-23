@@ -4,7 +4,21 @@
   padding: 20px;
   
   h2 {
+    font-weight: bold;
     text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  h4 {
+    margin-bottom: 15px;
+  }
+
+  article {
     margin-bottom: 20px;
   }
 
@@ -17,15 +31,4 @@
 
 .block {
   margin-top: 50px;
-}
-.image-container {
-  text-align: center;
-  img {
-    margin: 5px;
-    max-width: 100%;
-    @include media-query($screen-md-min) {
-      max-width: 49%;
-      margin: 10px 0;
-    }
-  }
 }
