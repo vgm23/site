@@ -9,9 +9,6 @@
 
   .google-maps {
     margin-top: 20px;
-    iframe {
-      width: 100%;
-    }
     @media (min-width: $screen-md-min) {
       margin-top: 0;
       iframe {
