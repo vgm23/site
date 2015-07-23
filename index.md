@@ -4,11 +4,11 @@ main_css_classname: homepage
 ---
 
 
-# Bienvenue au Verger du Grand Murat
+## Bienvenue au Verger du Grand Murat
 
 
 <div class="image-container">
-    <img src="{{ site.baseurl }}/assets/images/home/accueil.jpg" alt="Nos produits" />
+    <img class="thumbnail" src="{{ site.baseurl }}/assets/images/home/accueil.jpg" alt="Nos produits" />
 </div>
 
 Vous êtes les bienvenus sur notre site Internet. Ce site n’est pas consacré à la vente en ligne, mais nous avons le plaisir de vous présenter tout notre savoir-faire et les secrets de notre exploitation.
