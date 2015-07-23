@@ -13,6 +13,8 @@ $content-background-color: #f9f9f9;
 $default-font-color: #333 !default;
 $default-font-family: 'Open Sans', sans-serif;
 
+$brand-primary: #999;
+
 $off-canvas-offset: 300px !default;
 
 @mixin media-query($device) {

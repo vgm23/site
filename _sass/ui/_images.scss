@@ -6,8 +6,10 @@
 }
 
 .thumbnail {
-  @include media-query($screen-md-min) {
+  @include media-query($screen-xs-min) {
     display: inline-block;
+  }
+  @include media-query($screen-md-min) {
     max-width: 48%;
     margin: 10px 0;
   }
