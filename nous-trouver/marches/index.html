@@ -1,0 +1,12 @@
+---
+layout: default
+title: Les marchés
+---
+
+{% for post in site.categories."marches" reversed %}
+<article>
+    <h3>{{ post.title }}</h3>
+
+    {{ post.content }}
+</article>
+{% endfor %}
