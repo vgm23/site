@@ -1,5 +1,5 @@
 ---
-title: La lutte intégrée
+title:  
 ---
 
 Dans certaines régions, encore aujourd’hui, les arboriculteurs traitent les vergers systématiquement à intervalles réguliers sans remettre en question une méthode de travail révolue des années 70.
