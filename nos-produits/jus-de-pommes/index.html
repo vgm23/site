@@ -1,0 +1,12 @@
+---
+layout: default
+title: Jus de pommes
+---
+
+{% for post in site.categories."jus-de-pommes" reversed %}
+<article id="{{ post.id }}">
+    <h3>{{ post.title }}</h3>
+
+    {{ post.content }}
+</article>
+{% endfor %}
