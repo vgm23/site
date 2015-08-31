@@ -1,7 +1,10 @@
 ---
-title: September Wonder
+title: September Wonder ou Fuji précoce
 ---
 
+C’est un fruit d’un bon calibre, de couleur rouge-rosé.
+
+Cette pomme est douce et sucré, de bonne conservation
 
 
 <div class="image-container">

@@ -10,7 +10,7 @@ title: Tarte râpée aux Pommes du Limousin
 
 #### Ingrédients :
 
-* 6 Pommes du Limousin pelées, épépinées puis râpées
+* 6 Goldens délicious pelées, épépinées puis râpées
 * 200 g de farine de froment
 * 100 g de beurre en pommade
 * 1 pincée de sel fin
@@ -25,7 +25,7 @@ title: Tarte râpée aux Pommes du Limousin
 * Mélanger avec une spatule ou la pointe des doigts.
 * Incorporer l’eau progressivement afin d’obtenir une pate lisse que vous roulez en boule.
 * Laissez reposer 1 heure au frais.
-* Etendre la pate au rouleau, en garnir un plat à tarte. Y déposer les Pommes du Limousin râpées aromatisées de cannelle et de sucre vanillé.
+* Etendre la pate au rouleau, en garnir un plat à tarte. Y déposer les Goldens délicious pelées râpées aromatisées de cannelle et de sucre vanillé.
 * Cuire 30 à 35 minutes dans un four préchauffé thermostat 6/7 (180°/ 200°).
 * Servir tiède accompagné de crème anglaise.
 

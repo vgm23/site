@@ -13,7 +13,7 @@ title: Filet mignon de porc aux Pommes du Limousin
 * 800 g de filet mignon de porc
 * 4 échalotes
 * 200 g de champignons de Paris
-* 6 Golden du Limousin
+* 6 Golden délicious
 * 75 cl de pétillant de jus de pomme
 * sel, poivre, piment d’espelette
 
