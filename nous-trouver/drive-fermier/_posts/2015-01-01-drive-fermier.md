@@ -2,7 +2,7 @@
 title: Drive fermier
 ---
 
-Vous pouvez retrouver nos produits au drive fermier de Gueret, à l'adresse suivante : http://www.drive-fermier.fr/gueret/
+Vous pouvez retrouver nos produits au drive fermier de Gueret, à l'adresse suivante : [http://www.drive-fermier.fr/gueret](http://www.drive-fermier.fr/gueret)
 
 Le point de retrait est situé au Hall de l'Agriculture Pomemil, 23000 Gueret
 
