@@ -13,6 +13,8 @@ main_css_classname: homepage
 
 Vous êtes les bienvenus sur notre site Internet. Ce site n’est pas consacré à la vente en ligne, mais nous avons le plaisir de vous présenter tout notre savoir-faire et les secrets de notre exploitation.
 
+**Nous démarrons la cueillette au verger à partir du 5 septembre 2015 tous les après-midi de 13h30 à 17h30.**
+
 Nous remercions notre pilote d’ULM (M. Charles) pour ses prises de vue, depuis son appareil, de notre beau village et de notre exploitation.
 
 <div class="image-container">
