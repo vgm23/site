@@ -4,7 +4,7 @@ title: Venez cueillir, vous même, vos pommes
 
 C'est l'occasion de découvrir ou redécouvrir la vraie saveur des produits. 
 
-Cueillir vos pommes à maturité, est  le moyen de préserver toutes leurs qualités gustatives et de conservations.
+Cueillir <a href="{{ site.baseurl }}/nos-produits/nos-pommes">vos pommes</a> à maturité, est  le moyen de préserver toutes leurs qualités gustatives et de conservations.
 
 
 <div class="image-container">
