@@ -10,8 +10,6 @@ title: Flognarde aux pommes du Limousin
 
 **Cuisson** : 30 minutes
 
-
-
 #### Ingrédients :
 
 * 4 pommes du limousin
@@ -34,6 +32,12 @@ title: Flognarde aux pommes du Limousin
 * versez au centre le deuxième quart du beurre fondu et les œufs. Mélangez à l’aide d’un fouet et rajoutez le lait ainsi que le rhum. Ajoutez les pommes et mélangez très délicatement.
 * Avec le troisième quart de beurre, graissez un moule à pâtisserie, saupoudrez de farine et de sucre. Le garnir du mélange et parsemez  dessus le beurre restant.
 * Enfournez 30 minutes dans un four préchauffé à 180/200°. Saupoudrez de sucre en sortant du four et dégustez tiède..
+
+<div class="image-container">
+    <a class="thumbnail" href="{{ site.baseurl }}/assets/images/recettes/flognarde.jpg">
+        <img src="{{ site.baseurl }}/assets/images/recettes/flognarde-vignette.jpg" alt="Flognarde" title="Flognarde" />
+    </a>
+</div>
 
 **BONNE DEGUSTATION**
 
