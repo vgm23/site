@@ -34,6 +34,8 @@ Vous êtes les bienvenus sur notre site Internet. Ce site n’est pas consacré 
   * Sainte germaine
   * Braeburn
   * Reinette court-pendu
+  * Canada Grise
+  * Canada Bkanche
 
 Ces dates sont données à titre indicatif, et varieront selon la maturité et dans la limite des quantités disponibles.
 Les personnes nous ayant donné leur adresse mail recevront alors confirmation. 

@@ -4,10 +4,10 @@ title: Marché de La Souterraine
 
 La Souterraine (le 3ème samedi du mois) de 9h30 à 12h
 
-* 19 décembre 2015
-* 16 janvier 2016
-* 20 février 2016
-* 19 mars 2016
+* 17 décembre 2016
+* 21 janvier 2017
+* 18 février 2017
+* 18 mars 2017
 
 Rond point Vaillant Couturier
 Parking du centre commercial Las Damas
