@@ -1,5 +1,5 @@
 ---
-title: Jus de pomme
+title: Cubi de jus de pomme
 ---
 
 Depuis novembre 2016, nous vous proposons un autre type de conditionnement, en cubi de 3 litres ou de 5 litres. 
