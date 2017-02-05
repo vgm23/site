@@ -1,5 +1,5 @@
 ---
-title: La Montagne : cueillette des pommes
+title: La Montagne - cueillette des pommes
 ---
 
 
