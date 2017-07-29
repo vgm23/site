@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Mounassou sucré aux pommes du Limousin
 ---
 

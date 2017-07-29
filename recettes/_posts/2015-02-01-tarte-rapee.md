@@ -1,5 +1,6 @@
 ---
-title: Tarte râpée aux Pommes du Limousin
+layout: default
+title: Tarte râpée aux pommes du Limousin
 ---
 
 #### Recette pour 6 personnes

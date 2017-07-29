@@ -1,5 +1,6 @@
 ---
-title: Filet mignon de porc aux Pommes du Limousin
+layout: default
+title: Filet mignon de porc aux pommes du Limousin
 ---
 
 #### Recette pour 6 personnes

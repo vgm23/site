@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Flognarde aux pommes du Limousin
 ---
 
