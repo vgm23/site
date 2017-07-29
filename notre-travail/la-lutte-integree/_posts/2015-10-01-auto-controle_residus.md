@@ -1,5 +1,5 @@
 ---
-title: Auto contrôle de résidus
+title: Auto contrôle des résidus
 ---
 
 Depuis 2011, nous avons choisi d'effectuer volontairement des analyses de nos fruits à la récolte. 
