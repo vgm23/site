@@ -18,7 +18,12 @@ Depuis,le 1er rapport d’analyse 2011 (<a href="{{ site.baseurl }}/assets/docum
 
 Pour cette année 2015 (<a href="{{ site.baseurl }}/assets/documents/rapport-phyto-2015.pdf">voir les résultats</a>), les trois produits détectés le sont sous forme de trace. Aucun dépassement de la limite maximale autorisée n'a été trouvé.
 
-Cette année encore nos pommes sont sans résidus de traitement, suite au contrôle qualité que nous avons effectué le 23/09/2016 par le laboratoire Phytocontrol (<a href="{{ site.baseurl }}/assets/documents/rapport-phyto-2016.pdf">voir les résultats</a>).
+En 2016 encore, nos pommes sont sans résidus de traitement, suite au contrôle qualité que nous avons effectué le 23/09/2016 par le laboratoire Phytocontrol (<a href="{{ site.baseurl }}/assets/documents/rapport-phyto-2016.pdf">voir les résultats</a>).
+
+Voici les <a href="{{ site.baseurl }}/assets/documents/rapport-phyto-2017.pdf">résultats des analyses 2017<a/> de nos pommes.
+
+On peut constater que malgré un printemps capricieux et conditions climatiques difficiles liées aux fortes précipitations (les produits sont lessivés tous  20 mm de pluie), nous avons encore cette année d’excellents résultats sans aucun seuil dépassé.
+On s'appliquera pour la prochaine campagne à faire encore mieux...
 
 On peut considérer que ces bons résultats sont les fruits de notre travail et de notre façon de faire : la lutte raisonnée...
 
