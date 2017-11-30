@@ -3,6 +3,8 @@ layout: default
 title: Filet mignon de porc aux pommes du Limousin
 ---
 
+## {{ page.title }}
+
 #### Recette pour 6 personnes
 
 **Préparation** : 30 minutes

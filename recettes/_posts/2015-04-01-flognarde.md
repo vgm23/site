@@ -3,7 +3,7 @@ layout: default
 title: Flognarde aux pommes du Limousin
 ---
 
-
+## {{ page.title }}
 
 #### Recette pour 6 personnes
 

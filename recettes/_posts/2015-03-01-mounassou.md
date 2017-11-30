@@ -3,7 +3,7 @@ layout: default
 title: Mounassou sucré aux pommes du Limousin
 ---
 
-
+## {{ page.title }}
 
 #### Recette pour 4 personnes
 
