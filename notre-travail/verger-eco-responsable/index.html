@@ -1,0 +1,18 @@
+---
+layout: default
+title: Notre verger écoresponsable
+---
+
+<h2>{{ page.title }}</h2>
+
+<div class="image-container">
+    <img class="thumbnail" src="{{ site.baseurl }}/assets/images/verger-ecoresponsable/garanties.jpg" alt="Les garanties d'un verger écoresponsables" width="300" height="375"/>
+</div>
+
+{% for post in site.categories."verger-eco-responsable" reversed %}
+<article>
+    <h3>{{ post.title }}</h3>
+
+    {{ post.content }}
+</article>
+{% endfor %}
