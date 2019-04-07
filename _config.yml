@@ -1,7 +1,17 @@
-title: Le verger du Grand Murat
+title: Les vergers du Grand Murat
 baseurl: "https://www.vergersdugrandmurat.com"
 url: "vgm.fr"
 
 ga_ua: UA-58942660-1
 
 markdown: kramdown
+
+exclude:
+  - .idea
+  - .sass-cache
+  - bin
+  - docker-compose.*
+  - vendor
+
+plugins:
+  - jekyll-redirect-from
