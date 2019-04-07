@@ -12,7 +12,7 @@ title: Nos pommes
 </article>
 
 {% for post in site.categories."nos-pommes" reversed %}
-<article>
+<article id="{{ post.id }}">
     <h3>{{ post.title }}</h3>
 
     {{ post.content }}
